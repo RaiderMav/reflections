@@ -1,0 +1,9 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates a list of files to be tracked.  It begins the process of following files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The repository consists of all files that have been committed, but the stagin area is a temporary area.  
+
