@@ -5,5 +5,5 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-	The repository consists of all files that have been committed, but the stagin area is a temporary area.  
+	The repository consists of all files that have been committed, but the staging area is a temporary area.  
 
