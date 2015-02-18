@@ -15,3 +15,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 
 	If I wanted to try a radical redesign of a site, or play with a completely new approach, without losing the functionality of the original, it would be helpful to be able to start another branch and work on that one.
+
+How do the diagrams help you visualize the branch structure?
+
+	You can see which commits are reachable from the commit you are checking out.  Other than that, I am a bit confused.
